@@ -1,0 +1,9 @@
+# Ignore artifacts:
+/.next/
+/out/
+/build
+/coverage
+/.husky
+.prettierignore
+yarn.lock
+.env
