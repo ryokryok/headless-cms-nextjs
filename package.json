@@ -10,7 +10,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "prepare": "husky install",
-    "test": "jest --watch"
+    "test": "jest"
   },
   "lint-staged": {
     "**/*": "yarn format"
